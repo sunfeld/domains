@@ -25,6 +25,7 @@ All domains terminate SSL at **mc-proxy** (142.93.128.44) via wildcard Let's Enc
 | `pp.sunfeld.nl` | PP Service | 9780 | vouwai | — |
 | `pp1.sunfeld.nl` | PP Service (DOKS) | 443 | 129.212.220.252 | — |
 | `ppai1.sunfeld.nl` | PP AI Service (DOKS) | 443 | 129.212.220.252 | — |
+| `romulus.sunfeld.nl` | Romulus Italian Teacher Directory | 443 | 129.212.220.252 (DOKS) | `sunfeld/romulus` |
 | `timeline.sunfeld.nl` | Timeline Service | 9778 | vouwai | — |
 
 ## Infrastructure
