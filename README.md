@@ -12,6 +12,7 @@ All domains terminate SSL at **mc-proxy** (142.93.128.44) via wildcard Let's Enc
 | `www.sunfeld.nl` | Redirect → sunfeld.nl | — | mc-proxy | — |
 | `mc.sunfeld.nl` | Mission Control (master) | 9111 | vouwai | `sunfeld/mission-control` |
 | `mc1.sunfeld.nl` | Mission Control Standalone (DOKS) | 443 | 129.212.220.252 | `sunfeld/mcs` |
+| `fabio.sunfeld.nl` | MCS Tenant: Fabio (DOKS) | 443 | 129.212.220.252 | `sunfeld/mcs` |
 | `editor.sunfeld.nl` | Video Editor (PWA + Android API) | 9444 | vouwai | `sunfeld/video-editor` |
 | `vid.sunfeld.nl` | Video Hosting Service | 9555 | 129.212.220.252 (DOKS) | `sunfeld/video-host` |
 | `video.sunfeld.nl` | Redirect → vid.sunfeld.nl | — | mc-proxy | — |
