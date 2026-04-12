@@ -28,6 +28,8 @@ All domains terminate SSL at **mc-proxy** (142.93.128.44) via wildcard Let's Enc
 | `ppai1.sunfeld.nl` | PP AI Service (DOKS) | 443 | 129.212.220.252 | — |
 | `romulus.sunfeld.nl` | Romulus Italian Teacher Directory | 443 | 129.212.220.252 (DOKS) | `sunfeld/romulus` |
 | `timeline.sunfeld.nl` | Timeline Service | 9778 | vouwai | — |
+| `bitch-lasagna.sunfeld.nl` | Bitch Lasagna (prod) | 3000 | 129.212.220.252 (DOKS) | `sunfeld/bitch-lasagna` |
+| `bitch-lasagna-dev.sunfeld.nl` | Bitch Lasagna (dev) | 3000 | 129.212.220.252 (DOKS) | `sunfeld/bitch-lasagna` |
 
 ## Infrastructure
 
