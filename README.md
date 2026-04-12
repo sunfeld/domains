@@ -30,6 +30,8 @@ All domains terminate SSL at **mc-proxy** (142.93.128.44) via wildcard Let's Enc
 | `timeline.sunfeld.nl` | Timeline Service | 9778 | vouwai | — |
 | `bitch-lasagna.sunfeld.nl` | Bitch Lasagna (prod) | 3000 | 129.212.220.252 (DOKS) | `sunfeld/bitch-lasagna` |
 | `bitch-lasagna-dev.sunfeld.nl` | Bitch Lasagna (dev) | 3000 | 129.212.220.252 (DOKS) | `sunfeld/bitch-lasagna` |
+| `assistant.sunfeld.nl` | Custom Android Assistant Backend (prod) | 8080 | 129.212.220.252 (DOKS) | `sunfeld/assistant` |
+| `assistant-dev.sunfeld.nl` | Custom Android Assistant Backend (dev) | 8080 | 129.212.220.252 (DOKS) | `sunfeld/assistant` |
 
 ## Infrastructure
 
